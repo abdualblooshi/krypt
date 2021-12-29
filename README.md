@@ -14,6 +14,9 @@ Installing Krypt using npm
   git clone https://github.com/gitanimous/krypt.git
   cd krypt/client
   npm install
+  
+  cd ../smart_contract
+  npm install
 ```
 
 Installing Krypt using yarn
@@ -21,6 +24,9 @@ Installing Krypt using yarn
 ```bash
   git clone https://github.com/gitanimous/krypt.git
   cd krypt/client
+  yarn install
+  
+  cd ../smart_contract
   yarn install
 ```
 
