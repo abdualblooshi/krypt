@@ -1,5 +1,6 @@
 # Krypt
 
+## [Live Preview/Demo](https://gitanimous.github.io/krypt/)
 ![Demo](https://i.imgur.com/10Kzlos.png)
 
 Krypt is a Blockchain Application that uses Web 3.0 methodologies, Solidity and Metamask to **transfer Ethereum from an address to another**, the front-end uses Vite (React) and Tailwind CSS
@@ -29,5 +30,3 @@ Installing Krypt using yarn
   cd ../smart_contract
   yarn install
 ```
-
-## Live Preview/Demo (Coming Soon)
