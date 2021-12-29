@@ -10,15 +10,17 @@ Krypt is a Blockchain Application that uses Web 3.0 methodologies, Solidity and 
 Installing Krypt using npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/gitanimous/krypt.git
+  cd krypt/client
+  npm install
 ```
 
 Installing Krypt using yarn
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/gitanimous/krypt.git
+  cd krypt/client
+  yarn install
 ```
     
 ## Live Preview/Demo (Coming Soon)
